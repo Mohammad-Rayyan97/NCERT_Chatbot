@@ -1,0 +1,9 @@
+pypdf
+langchain==0.1.17
+langchain-community==0.0.38
+sentence-transformers
+chromadb
+langchain_groq ## for using groq model
+python-dotenv
+langchain_huggingface
+streamlit
